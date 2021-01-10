@@ -1,7 +1,7 @@
 # Snarky Hacker News
 
 
-![https://i.gifer.com/3ZH2.gif](https://i.gifer.com/3ZH2.gif)
+![](https://media3.giphy.com/media/j3HQ1zWosr1NS/200.gif)
 
 Identifying sarcasm is a a really hard problem for computers (and sometimes humans). Some good folks on the internet have been terminating the comments with a '/s' to denote a sarcastic quip. 
 
